@@ -1,0 +1,64 @@
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\appsettings.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.exe
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.deps.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.runtimeconfig.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.pdb
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.AssemblyReference.cache
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.AssemblyInfoInputs.cache
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.AssemblyInfo.cs
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.CoreCompileInputs.cache
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.Alameda.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Alameda.API.props
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alameda.API.props
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alameda.API.props
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\scopedcss\bundle\Alameda.API.styles.css
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.CopyComplete
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\refint\Alameda.API.dll
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.pdb
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.genruntimeconfig.cache
+C:\Users\jesto\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\ref\Alameda.API.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\appsettings.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.exe
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.deps.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.runtimeconfig.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Alameda.API.pdb
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.AssemblyReference.cache
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.AssemblyInfoInputs.cache
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.AssemblyInfo.cs
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.CoreCompileInputs.cache
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.Alameda.API.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.build.Alameda.API.props
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Alameda.API.props
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Alameda.API.props
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\scopedcss\bundle\Alameda.API.styles.css
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.csproj.CopyComplete
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\refint\Alameda.API.dll
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.pdb
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\Alameda.API.genruntimeconfig.cache
+C:\Users\jesto\Word Searching\Alameda NET API\Alameda.API\Alameda.API\obj\Debug\net6.0\ref\Alameda.API.dll

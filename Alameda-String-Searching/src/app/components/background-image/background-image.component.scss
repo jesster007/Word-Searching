@@ -1,0 +1,29 @@
+.toolbar{
+    display: flex;
+    width: 100%;
+    height: 5rem; 
+    min-width: 75rem;
+    position: absolute; 
+    opacity: 1; 
+    z-index: -1;
+}
+
+
+img{
+    width:100%;
+    object-fit: cover; 
+    object-position: 0% 60%;
+}
+
+mat-icon{
+    position: absolute;
+    font-size: 55rem;
+    top: 5%;
+    left: max(65%,47.5rem);
+    overflow: hidden;
+    height: 95%;
+    width: max(35%,27.5rem);
+
+    opacity: .3;
+    color: #dbdfff;
+}

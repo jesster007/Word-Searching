@@ -1,0 +1,132 @@
+mat-tab-group{
+    margin-left: 10%;
+    margin-top: 2rem;
+    width: 65rem;
+    min-width: 65rem;
+    overflow-x: visible;
+    font-family: Caladea;
+    font-size: 1.25rem;
+}
+
+mat-progress-bar{
+    margin-top: 0;
+    top:0%;
+    width: 64rem;
+}
+
+mat-divider{
+    margin-top: 1.5rem;
+    margin-left: 2rem;
+    margin-right: 2rem;   
+    height: 20rem;  
+}
+
+mat-checkbox{
+    font-size: 1.75rem;
+    margin-bottom: 0.5rem;
+}
+
+textarea{
+    resize: none;
+}
+
+.search-tab{
+    display: flex;
+    justify-content: left;
+    margin-top: 1rem;
+}
+
+
+.search-form {
+    font-size: 1.3rem;
+    width: 42rem;
+}
+  
+.search-field {
+    width: 100%;
+    height: 18rem;
+    
+}
+
+.interactable-components{
+    display: flex;
+    height: 6rem;
+}
+
+.query-field{
+    width: 23.5rem;
+}
+
+.buttons{
+    margin-left: 0.75rem;
+}
+
+button{
+    margin-left: 0.575rem;
+    width: 8.25rem;
+    height: 3.6rem;
+    font-size: 1.25rem;
+}
+
+.output-card {
+    width: 20rem;
+    height: 21.6rem;
+    margin-left: 10%;
+    font-size: 1.5rem;
+    font-family:Caladea;
+    background-color: #e3e5f7;
+}
+
+
+.results {
+    margin-top: 0.5rem;
+    border-radius: 1.5rem;
+    display: inline-block;
+    margin-right: 0.5rem;
+    justify-content: center;
+}
+
+.resultContainer{
+    margin-top: 1rem;
+    overflow: auto;
+    padding-right: 1rem;
+}
+
+.result-header{
+    font-weight: bold;
+    text-decoration: underline ;
+}
+
+.more-tab{
+    height: 25rem;
+    font-size: 1.5rem;
+    display: flex;
+}
+
+.more-header{
+    font-size: 1.75rem;
+    font-weight: bold;
+}
+
+.filters{
+    display: grid;
+}
+
+.examples{
+    width: 19rem;
+}
+
+.sub-text{
+    margin-left: 2rem;
+    margin-top: 0rem;
+    width: 15rem;
+    font-size: 1rem;   
+}
+
+.description{
+    margin-right: 0rem;
+    margin-top: 0.5rem;
+    width: 19rem;
+    overflow-wrap: break-word;
+    overflow: hidden;
+}

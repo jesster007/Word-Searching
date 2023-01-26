@@ -1,0 +1,19 @@
+mat-toolbar{
+    height:5rem;
+    display: flex;
+    min-width: 75rem;
+    justify-content: right;
+    background-color:rgba($color: #000000, $alpha: 0.4);
+    box-shadow:0 -0.2rem 0.2rem 0rem rgb(0, 0, 0) inset;
+
+}
+button{
+    margin: 1.25rem 1.25rem;
+    width: 3.5rem;
+    height: 3.5rem;
+}
+
+svg{
+    width: 60%;
+    height: 60%;
+}

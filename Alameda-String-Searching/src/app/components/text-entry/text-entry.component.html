@@ -1,0 +1,84 @@
+
+<mat-tab-group mat-stretch-tabs = "false"> 
+    <mat-tab label="Search">
+        <div class = "search-tab">
+            <div>
+                <form #form = "ngForm" class="search-form" (ngSubmit)="callQuery()">
+                    <mat-form-field class="search-field" aria-label="Search Entry Field" color = "accent">
+                        <mat-label>Enter the text you want to search from here</mat-label>
+                        <textarea matInput #message rows = "10" placeholder="Ex. Coders who code don't always eat cod. Exclaimed the coder who codes CODE...." name = "input" [(ngModel)]="data.Input"></textarea>
+                    </mat-form-field>
+                
+                    <div class = "interactable-components">
+                        <div class="search-query">
+                            <mat-form-field class="query-field" aria-label="Query Entry Field" color = "primary">
+                                <mat-label>Search Query</mat-label>
+                                <input matInput #message placeholder="Ex. cod* ..." name = "query" [(ngModel)]="data.Query">
+                            </mat-form-field>
+                        </div>
+                        <div class = "buttons">
+                            <button mat-fab type = "submit" aria-label="Search Button" extended color="primary">
+                                <mat-icon>search</mat-icon>
+                                Search
+                            </button>
+
+                            <button mat-fab type = "button" aria-label="Clear Button" extended color="accent" (click) = "clear()">
+                                <mat-icon>delete</mat-icon>
+                                Clear
+                            </button>
+                        </div>
+                    </div>
+                </form>
+            </div>
+            <div>
+                <mat-card class="output-card">
+                    <mat-card-header>
+                        <mat-card-subtitle>Output</mat-card-subtitle>
+                        <mat-card-title>Search Results</mat-card-title>
+                    </mat-card-header>
+                    <mat-card-content *ngIf = "!searched">
+                        <p>No current results to display</p>
+                    </mat-card-content>
+                    <mat-card-content *ngIf = "searched">
+                        <p class = "result-header">{{searchResults.length}} Result(s) found</p>
+                    </mat-card-content>
+                    <mat-card-content class = "resultContainer" *ngIf = "searchResults && searchResults.length >= 0">
+                        <mat-card class = "results" *ngFor = "let result of searchResults">
+                            <mat-card-content class = "result">{{result}}</mat-card-content>
+                        </mat-card>
+                    </mat-card-content>
+                </mat-card>
+            </div>
+        </div>
+        <mat-progress-bar *ngIf = "waiting" mode="indeterminate"></mat-progress-bar>
+    </mat-tab>
+    <mat-tab label="Filters and More Information">
+        <div class = "more-tab">
+            <section>
+                <p class = "more-header">Preferences:</p>
+                <div class = "filters">
+                    <mat-checkbox [(ngModel)] = "data.MatchCase">Case Sensitive</mat-checkbox>
+                    <mat-checkbox [(ngModel)] = "data.MatchWhole">Match Word Exactly</mat-checkbox>
+                    <mat-checkbox [(ngModel)] = "data.IgnorePunctuation">Ignore Punctuation*</mat-checkbox>
+                </div>
+                <p class = "sub-text">*Warning: this will remove non operator punctuation from input and query</p>
+            </section>
+            <mat-divider [vertical]="true"></mat-divider>
+            <div class = "description">
+                <p>Allows for ?, * and ~ Search Operators</p>
+                <p>?: Can be any single character</p>
+                <p>*: Can be any number of characters</p>
+                <p>~: When placed in front of ?, * or ~ it will treat the following operator as a character</p>
+            </div>
+            <mat-divider [vertical]="true"></mat-divider>
+            <div class = "examples">
+                <p class = "more-header">Examples:</p>
+                <p>"fo?k" - Will find "fork"</p>
+                <p>"*" - Will return any word</p>
+                <p>"r*" - Will return any word starting with r</p>
+                <p>"~?" - Will find "?"</p>
+            </div>
+        </div>
+    </mat-tab>
+</mat-tab-group>
+
