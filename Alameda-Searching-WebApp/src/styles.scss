@@ -1,0 +1,25 @@
+
+@use '@angular/material' as mat;
+@include mat.core();
+
+
+$Alameda-String-Searching-primary: mat.define-palette(mat.$indigo-palette, 800);
+$Alameda-String-Searching-accent: mat.define-palette(mat.$red-palette, 900); 
+
+$Alameda-String-Searching-warn: mat.define-palette(mat.$red-palette);
+
+
+$Alameda-String-Searching-theme: mat.define-light-theme((
+  color: (
+    primary: $Alameda-String-Searching-primary,
+    accent: $Alameda-String-Searching-accent,
+    warn: $Alameda-String-Searching-warn,
+  )
+));
+
+
+@include mat.all-component-themes($Alameda-String-Searching-theme);
+
+
+html, body { height: 100%; }
+body { margin: 0;}
